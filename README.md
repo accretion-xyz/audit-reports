@@ -14,3 +14,4 @@ Repository of our public audit reports.
 | A25REA1 | Realms                   | Solana/Native | May 2025    | https://realms.today/  | [🔗](/2025-accretion-realms-versioned-transactions-audit-A25REA1.pdf) |
 | A25ANA2 | Swig                     | Solana/Pinocchio | June 2025 | https://onswig.com/ | [🔗](/2025-accretion-anagram-swig-audit-A25ANA2.pdf) |
 | A25MET2 | MetaDAO Squads Integration | Solana/Anchor | July 2025 | https://metadao.fi/ | [🔗](/2025-accretion-metadao-squads-treasury-audit-A25MET2.pdf) |
+| A25PRC1 | Privacy Cash | Solana/Anchor | July 2025 | https://www.privacycash.org/ | [🔗](/2025-accretion-privacy-cash-audit-A25PRC1.pdf) |

@@ -15,3 +15,5 @@ Repository of our public audit reports.
 | A25ANA2 | Swig                     | Solana/Pinocchio | June 2025 | https://onswig.com/ | [🔗](/2025-accretion-anagram-swig-audit-A25ANA2.pdf) |
 | A25MET2 | MetaDAO Squads Integration | Solana/Anchor | July 2025 | https://metadao.fi/ | [🔗](/2025-accretion-metadao-squads-treasury-audit-A25MET2.pdf) |
 | A25PRC1 | Privacy Cash | Solana/Anchor | July 2025 | https://www.privacycash.org/ | [🔗](/2025-accretion-privacy-cash-audit-A25PRC1.pdf) |
+| A25MET3 | MetaDAO Launchpad Price Based Unlocks        | Solana/Anchor | September 2025  | https://metadao.fi/ | [🔗](/2025-accretion-metadao-price-based-token-lock-audit-A25MET3.pdf) |
+

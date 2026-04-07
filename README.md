@@ -21,4 +21,6 @@ Repository of our public audit reports.
 | A25SAN1 | Sanctum Jiminy, Token Ratio, FlatSlab        | Solana/Jiminy | September 2025  | https://sanctum.so/ | [🔗](/2025-accretion-sanctum-flat-slab-jiminy-token-ratio-audit-A25SAN1.pdf) |
 | A25MRG3 | Project 0 / mrgn | Solana/Anchor | September 2025 | https://www.0.xyz/ | [🔗](/2025-accretion-marginfi-drift-solend-integration-audit-A25MRG3.pdf) |
 | A26SFR1 | Lazorkit | Solana/Pinocchio | January 2026 | https://github.com/lazor-kit | [🔗](/2026-accretion-solana-foundation-lazorkit-audit-A26SFR1.pdf) |
-
+| A26MET1 | MetaDAO | Solana/Anchor | February 2026 | https://github.com/metaDAOproject/programs| [🔗](/2026-accretion-metadao-metadao-full-audit-audit-A26MET1.pdf) |
+| A26SFR2 | Solana Foundation / Keychain | Rust/Typescript | February 2026 | https://github.com/solana-foundation/solana-keychain/ | [🔗](/2026-accretion-solana-foundation-solana-keychain-audit-A26SFR2.pdf) |
+| A26HTO1 | RevTec V2 | Solana/Anchor | March 2026 | https://revtec.fi/ | [🔗](/2026-accretion-h2o-nodes-gmbh-revtec-audit-A26HTO1.pdf) |

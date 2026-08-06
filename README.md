@@ -38,3 +38,4 @@ Repository of our public audit reports.
 | A26MAN1 | Manifest Destiny | Solana/Pinocchio | May 2026 | https://www.manifest.trade/ | [🔗](/2026-accretion-manifest-destiny-audit-A26MAN1.pdf) |
 | A26EXP1 | Exponent Tranching | Solana/Anchor | May 2026 | https://www.exponent.finance/ | [🔗](/2026-accretion-exponent-finance-exponent-tranching-audit-A26EXP1.pdf) |
 | A26SFR4 | Solana Foundation Token ACL Gate Updates | Solana/Pinocchio | June 2026 | https://github.com/solana-foundation/token-acl-gate | [🔗](/2026-accretion-solana-foundation-token-acl-gate-updates-audit-A26SFR4.pdf) |
+| A26HYL1 | Hylo V2 Exchange, Earn Pool & Router | Solana/Anchor | July 2026 | https://hylo.so/ | [🔗](/2026-accretion-hylo-protocol-v2-audit-A26HYL1.pdf) |

@@ -1,6 +1,6 @@
 # Accretion — Public Solana Audit Reports
 
-[Accretion](https://accretion.xyz) is a boutique security firm with an exclusive focus on the **Solana runtime**. We audit Solana programs — Anchor, Pinocchio, and native — and nothing else. Since January 2025, our full-time, Solana-only audit practice has reviewed 50+ protocols protecting over $1.5B in TVL, including Light Protocol, MetaDAO, marginfi, Sanctum, Ellipsis Labs, Realms, and the Solana Foundation.
+[Accretion](https://accretion.xyz) is a boutique security firm with an exclusive focus on the **Solana runtime**. We audit Solana programs — Anchor, Pinocchio, and native — and nothing else. Since January 2025, our full-time, Solana-only audit practice has reviewed 70+ protocols protecting over $3B in TVL, including Light Protocol, MetaDAO, marginfi, Sanctum, Ellipsis Labs, Realms, Metaplex, and the Solana Foundation.
 
 This repository contains every audit report our clients have chosen to make public. Many engagements are private and not listed here.
 

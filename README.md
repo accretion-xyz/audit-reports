@@ -4,7 +4,7 @@
 
 This repository contains every audit report our clients have chosen to make public. Many engagements are private and not listed here.
 
-**Looking for an audit?** Submit your protocol at [accretion.xyz](https://accretion.xyz) or email [contact@accretion.xyz](mailto:contact@accretion.xyz) — we respond within 24 hours. Typical lead time is 2–4 weeks, and every engagement includes six months of post-audit support with 24/7 emergency response for critical issues.
+**Looking for an audit?** Submit your protocol at [accretion.xyz](https://accretion.xyz) or email [contact@accretion.xyz](mailto:contact@accretion.xyz) — we respond within 24 hours. We can start an audit immediately, and every engagement includes six months of post-audit support with 24/7 emergency response for critical issues.
 
 ## Coverage
 

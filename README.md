@@ -50,6 +50,7 @@ Our reports cover the full Solana attack surface: account validation, PDA deriva
 | A26EXP1 | Exponent Tranching | Fixed yield / tranching | Anchor | May 2026 | [exponent.finance](https://www.exponent.finance/) | [PDF](/2026-accretion-exponent-finance-exponent-tranching-audit-A26EXP1.pdf) |
 | A26SFR4 | Solana Foundation Token ACL Gate Updates | Token infrastructure | Pinocchio | June 2026 | [solana-foundation/token-acl-gate](https://github.com/solana-foundation/token-acl-gate) | [PDF](/2026-accretion-solana-foundation-token-acl-gate-updates-audit-A26SFR4.pdf) |
 | A26HYL1 | Hylo V2 Exchange, Earn Pool & Router | Stablecoin / leverage | Anchor | July 2026 | [hylo.so](https://hylo.so/) | [PDF](/2026-accretion-hylo-protocol-v2-audit-A26HYL1.pdf) |
+| A26ART1 | Artemis Capital — TBB Staking | Staking | Anchor | September 2026 | [stakethebull.xyz](https://stakethebull.xyz/) | [PDF](/2026-accretion-artemis-capital-llc-audit-A26ART1.pdf) |
 
 ## Report IDs
 
